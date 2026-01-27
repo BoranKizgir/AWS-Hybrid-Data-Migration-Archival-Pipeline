@@ -19,3 +19,9 @@ Bu proje Terraform kullanmadan, tamamen AWS Management Console üzerinden yapıl
 
 ## 📈 İzleme ve Kayıt
 Süreçlerin başarısı **Amazon CloudWatch** logları üzerinden ve **DynamoDB** tablosundaki kayıtlar incelenerek doğrulanmıştır.
+
+![](explanation_1.png)
+![](explanation_2.png)
+![](explanation_3.png)
+![](explanation_4.png)
+![](explanation_5.png)
