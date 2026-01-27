@@ -25,3 +25,4 @@ Süreçlerin başarısı **Amazon CloudWatch** logları üzerinden ve **DynamoDB
 ![](explanation_3.png)
 ![](explanation_4.png)
 ![](explanation_5.png)
+![](explanation_6.png)
