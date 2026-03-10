@@ -11,7 +11,7 @@ Bu proje, on-premise bir sunucudan AWS bulutuna veri taşıma sürecini simüle 
 - **S3 Lifecycle Policies:** Maliyet optimizasyonu için veriler 30 gün sonra otomatik olarak Glacier katmanına taşınır.
 
 ## Manuel Kurulum Rehberi (AWS Console)
-Bu proje Terraform kullanmadan, tamamen AWS Management Console üzerinden yapılandırılmıştır. 
+Bu proje Terraform kullanmadan, tamamen AWS Management Console üzerinden yapılandırılmıştır.
 1. **KMS:** `MigrationKey` adında bir simetrik anahtar oluşturuldu.
 2. **S3:** Bucket oluşturulurken "Versioning" ve "KMS Encryption" aktif edildi.
 3. **IAM:** Lambda'nın S3 ve DynamoDB'ye erişebilmesi için `Least Privilege` prensibiyle bir Role tanımlandı.
