@@ -1,6 +1,6 @@
 # AWS-Hybrid-Data-Migration-Archival-Pipeline
 
-Bu proje, on-premise bir sunucudan AWS bulutuna veri taşıma sürecini simüle eden, **AWS Solution Architect (SAA)** prensipleriyle tasarlanmış bir mimaridir. 
+Bu proje, on-premise bir sunucudan AWS bulutuna veri taşıma sürecini simüle eden, **AWS Solution Architect (SAA)** prensipleriyle tasarlanmış bir mimaridir.
 
 ## Mimari Şema
 
